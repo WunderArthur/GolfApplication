@@ -33,7 +33,7 @@ BODY_SENSORS: To access the accelerometer and gyroscope data.
 WRITE_EXTERNAL_STORAGE: To save session data to CSV files.
 
 ***Code Structure***
-*MainActivity*
+**MainActivity**
 The MainActivity class handles sensor events and manages the UI states. It initializes the sensors, registers listeners, and controls the navigation between different screens based on user interactions and state variables.
 
 **Sensor Event Handling**
